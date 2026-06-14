@@ -119,7 +119,6 @@ cd customer_behavior_analysis
 * Open `.pbix` file
 * Refresh data connection
 
----
 
 ## 🎯 Project Highlights
 
