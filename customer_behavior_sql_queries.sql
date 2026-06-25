@@ -3,7 +3,7 @@ select * from customer limit 20
 --- total revenue by gender
 select gender, SUM(purchase_amount) as revenue
 from customer
-group by gender
+group by gender;
 
 --- customers used a discount but still spent more than the average purchase amount
 SELECT customer_id,purchase_amount from customer
