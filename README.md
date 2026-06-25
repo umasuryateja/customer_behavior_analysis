@@ -14,9 +14,9 @@ The project includes data cleaning, exploratory data analysis (EDA), SQL-based a
 
 ## 📂 Dataset
 
-* The dataset contains customer-related information such as demographics, purchasing behavior, and transaction details
-* Includes structured data suitable for analysis in Python and SQL
-* Used for identifying trends, patterns, and customer segments
+* The dataset contains customer-related information such as demographics, purchasing behavior, and transaction details.
+* Includes structured data suitable for analysis in Python and SQL.
+* Used for identifying trends, patterns, and customer segments.
 
 ---
 
