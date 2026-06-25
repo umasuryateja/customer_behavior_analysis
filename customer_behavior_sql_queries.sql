@@ -22,7 +22,7 @@ select shipping_type,
 round(AVG(purchase_amount),2)
 from customer
 where shipping_type in ('Standard','Express')
-group by shipping_type
+group by shipping_type;
 
 
 ---do subscribed customers spend more? comapre avg spend and total revenue btw subscriber and non subscriber
