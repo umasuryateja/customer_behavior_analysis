@@ -4,7 +4,7 @@ Data analytics project showcasing customer behavior analysis using Python, Sql, 
 
 # 📊 Customer Behavior Data Analysis Project
 
-## 📌 Overview
+## 📌 Overview ##
 
 This project demonstrates a complete end-to-end data analytics workflow, covering data processing, analysis, and visualization. The goal is to analyze customer behavior data to extract meaningful insights that can support business decision-making.
 
