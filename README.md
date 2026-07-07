@@ -26,7 +26,7 @@ The project includes data cleaning, exploratory data analysis (EDA), SQL-based a
 * **SQL** (PostgreSQL / MySQL / SQL Server)
 * **Power BI** (Dashboard & Visualization)
 * **Jupyter Notebook** (Analysis)
-* **Gamma AI** (Presentation Creation)
+* **Gamma AI** (Presentation Creation).
 
 ---
 
