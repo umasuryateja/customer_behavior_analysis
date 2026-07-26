@@ -2,7 +2,7 @@
 Data analytics project showcasing customer behavior analysis using Python, Sql, Power Bi
 
 
-# 📊 Customer Behavior Data Analysis Project.
+# 📊 Customer Behavior Data Analysis Project
 
 ## 📌 Overview ##
 
