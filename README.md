@@ -6,7 +6,7 @@ Data analytics project showcasing customer behavior analysis using Python, Sql, 
 
 ## 📌 Overview ##
 
-This project demonstrates a complete end-to-end data analytics workflow, covering data processing, analysis, and visualization. The goal is to analyze customer behavior data to extract meaningful insights that can support business decision-making.
+This project demonstrates a complete end-to-end data analytics workflow, covering data processing, analysis, and visualization. The goal is to analyze customer behavior data to extract meaningful insights that can support business decision-making
 
 The project includes data cleaning, exploratory data analysis (EDA), SQL-based analysis, and an interactive Power BI dashboard to present key findings. Customer behavior analysis helps businesses understand purchasing patterns and improve strategies for retention and sales growth .
 
