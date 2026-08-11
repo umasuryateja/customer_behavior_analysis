@@ -25,7 +25,7 @@ The project includes data cleaning, exploratory data analysis (EDA), SQL-based a
 * **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 * **SQL** (PostgreSQL / MySQL / SQL Server)
 * **Power BI** (Dashboard & Visualization)
-* **Jupyter Notebook** (Analysis)
+* **Jupyter Notebook** (Analysis).
 * **Gamma AI** (Presentation Creation).
 
 ---
